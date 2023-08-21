@@ -1,0 +1,29 @@
+.firstDiv{
+    background-color:orange;
+    text-align:center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    padding-top:20px;
+}
+
+.inputElement{
+    width:200px;
+    height:40px;
+    border-color:green;
+    border-radius:20px;
+    color:green;
+    font-size:30px;
+    border:none;
+}
+
+.imageElement{
+    width:450px;
+    height:350px;
+    margin-top:30px;
+}
+
+.count{
+    padding-bottom:20px;
+    font-size:35px;
+    color:white;
+    font-weight:bold;
+}
