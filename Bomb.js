@@ -16,6 +16,7 @@ enteredText.addEventListener("keydown",function(event){
     let enteredValue = enteredText.value;
     if (enteredValue === "def" && event.key === "Enter" && count !==0){
         countElement.textContent = "You did it!";
+         clearInterval(countDecrease);
     }
 });
 
